@@ -7,6 +7,6 @@
 <title>Miniproject 1</title>
 </head>
 <body>
-<h1>Home - Miniprojekt 1</h1>
+<h1>Home - TestMiniprojekt 1</h1>
 </body>
 </html>
