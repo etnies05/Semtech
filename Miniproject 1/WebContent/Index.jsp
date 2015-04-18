@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href= "style.css">
 <title>Miniproject 1</title>
 </head>
 <body>
-<h1>Home - TestMiniprojekt 1</h1>
+<h1>Home - Miniprojekt 1</h1>
 </body>
 </html>
